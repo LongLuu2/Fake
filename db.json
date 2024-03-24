@@ -3,52 +3,52 @@
     {
       "id": 1,
       "listId": 1,
-      "Exercise": "Squats",
-      "Sets": 5,
-      "Reps": 5,
-      "RPE": 8,
-      "Weight": 225,
-      "Rest": 5
+      "exercise": "Squats",
+      "sets": 5,
+      "reps": 5,
+      "rPE": 8,
+      "weight": 225,
+      "rest": 5
     },
     {
       "id": 2,
       "listId": 1,
-      "Exercise": "Squats",
-      "Sets": 5,
-      "Reps": 5,
-      "RPE": 8,
-      "Weight": 225,
-      "Rest": 5
+      "exercise": "Squats",
+      "sets": 5,
+      "reps": 5,
+      "rpe": 8,
+      "weight": 225,
+      "rest": 5
     },
     {
       "id": 3,
       "listId": 2,
-      "Exercise": "Squats",
-      "Sets": 5,
-      "Reps": 5,
-      "RPE": 8,
-      "Weight": 225,
-      "Rest": 5
+      "exercise": "Squats",
+      "sets": 5,
+      "reps": 5,
+      "rPE": 8,
+      "weight": 225,
+      "rest": 5
     },
     {
       "id": 4,
       "listId": 2,
-      "Exercise": "Squats",
-      "Sets": 5,
-      "Reps": 5,
-      "RPE": 8,
-      "Weight": 225,
-      "Rest": 5
+      "exercise": "Squats",
+      "sets": 5,
+      "reps": 5,
+      "rPE": 8,
+      "weight": 225,
+      "rest": 5
     },
     {
       "id": 5,
       "listId": 2,
-      "Exercise": "Squats",
-      "Sets": 5,
-      "Reps": 5,
-      "RPE": 8,
-      "Weight": 225,
-      "Rest": 5
+      "exercise": "Squats",
+      "sets": 5,
+      "reps": 5,
+      "rpe": 8,
+      "weight": 225,
+      "rest": 5
     }
   ],
   "Days": [
