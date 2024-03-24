@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "Listid": 1,
+    "exercise": "Squats",
+    "sets": 5,
+    "reps": 5,
+    "rpe": 8,
+    "weight": 225,
+    "rest": 5
+  },
+   {
+    "id": 2,
+    "Listid": 1,
+    "exercise": "Squats",
+    "sets": 5,
+    "reps": 5,
+    "rpe": 8,
+    "weight": 225,
+    "rest": 5
+  },
+   {
+    "id": 3,
+    "Listid": 1,
+    "exercise": "Squats",
+    "sets": 5,
+    "reps": 5,
+    "rpe": 8,
+    "weight": 225,
+    "rest": 5
+  },
+   {
+    "id": 4,
+    "Listid": 1,
+    "exercise": "Squats",
+    "sets": 5,
+    "reps": 5,
+    "rpe": 8,
+    "weight": 225,
+    "rest": 5
+  },
+   {
+    "id": 5,
+    "Listid": 1,
+    "exercise": "Squats",
+    "sets": 5,
+    "reps": 5,
+    "rpe": 8,
+    "weight": 225,
+    "rest": 5
+  }
+]
