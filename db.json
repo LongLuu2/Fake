@@ -22,7 +22,7 @@
     },
     {
       "Id": 3,
-      "ListId": 1,
+      "ListId": 2,
       "Exercise": "Squats",
       "Sets": 5,
       "Reps": 5,
@@ -32,7 +32,7 @@
     },
     {
       "Id": 4,
-      "ListId": 1,
+      "ListId": 2,
       "Exercise": "Squats",
       "Sets": 5,
       "Reps": 5,
@@ -42,7 +42,7 @@
     },
     {
       "Id": 5,
-      "ListId": 1,
+      "ListId": 2,
       "Exercise": "Squats",
       "Sets": 5,
       "Reps": 5,
