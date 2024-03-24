@@ -47,7 +47,7 @@
       "sets": 3,
       "reps": 10,
       "rpe": 8,
-      "weights": 10,
+      "weights": "any",
       "rest": 5
     }
   ],
