@@ -50,15 +50,16 @@
       "Weight": 225,
       "Rest": 5
     }
-  ]
+  ],
   "Days": [
-  {
-    "id": 1,
-    "title": "Example Workout 1"
-  },
-  {
-    "id": 2,
-    "title": "Example Workout 2"
-  }
+    {
+      "id": 1,
+      "title": "Example Workout 1"
+    },
+    {
+      "id": 2,
+      "title": "Example Workout 2"
+    }
   ]
 }
+
