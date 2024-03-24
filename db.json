@@ -51,4 +51,14 @@
       "Rest": 5
     }
   ]
+  "Days": [
+  {
+    "id": 1,
+    "title": "Daily groceries"
+  },
+  {
+    "id": 2,
+    "title": "Birthday youngest child"
+  }
+  ]
 }
