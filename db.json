@@ -1,7 +1,7 @@
 {
   "Items": [
     {
-      "ItemId": 1,
+      "Id": 1,
       "Exercise": "Squats",
       "Sets": 5,
       "Reps": 5,
@@ -10,7 +10,7 @@
       "Rest": 5
     },
     {
-      "ItemId": 2,
+      "Id": 2,
       "Exercise": "Squats",
       "Sets": 5,
       "Reps": 5,
@@ -19,7 +19,7 @@
       "Rest": 5
     },
     {
-      "ItemId": 3,
+      "Id": 3,
       "Exercise": "Squats",
       "Sets": 5,
       "Reps": 5,
@@ -28,7 +28,7 @@
       "Rest": 5
     },
     {
-      "ItemId": 4,
+      "Id": 4,
       "Exercise": "Squats",
       "Sets": 5,
       "Reps": 5,
@@ -37,7 +37,7 @@
       "Rest": 5
     },
     {
-      "ItemId": 5,
+      "Id": 5,
       "Exercise": "Squats",
       "Sets": 5,
       "Reps": 5,
