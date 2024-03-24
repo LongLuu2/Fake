@@ -2,7 +2,7 @@
   "Items": [
     {
       "id": 1,
-      "ListId": 1,
+      "listId": 1,
       "Exercise": "Squats",
       "Sets": 5,
       "Reps": 5,
@@ -12,7 +12,7 @@
     },
     {
       "id": 2,
-      "ListId": 1,
+      "listId": 1,
       "Exercise": "Squats",
       "Sets": 5,
       "Reps": 5,
@@ -22,7 +22,7 @@
     },
     {
       "id": 3,
-      "ListId": 2,
+      "listId": 2,
       "Exercise": "Squats",
       "Sets": 5,
       "Reps": 5,
@@ -32,7 +32,7 @@
     },
     {
       "id": 4,
-      "ListId": 2,
+      "listId": 2,
       "Exercise": "Squats",
       "Sets": 5,
       "Reps": 5,
@@ -42,7 +42,7 @@
     },
     {
       "id": 5,
-      "ListId": 2,
+      "listId": 2,
       "Exercise": "Squats",
       "Sets": 5,
       "Reps": 5,
