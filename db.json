@@ -1,4 +1,49 @@
 {
-  "id": 1,
-  "title": "hello"
+  "Items": [
+    {
+      "ItemId": 1,
+      "Exercise": "Squats",
+      "Sets": 5,
+      "Reps": 5,
+      "RPE": 8,
+      "Weight": 225,
+      "Rest": 5
+    },
+    {
+      "ItemId": 2,
+      "Exercise": "Squats",
+      "Sets": 5,
+      "Reps": 5,
+      "RPE": 8,
+      "Weight": 225,
+      "Rest": 5
+    },
+    {
+      "ItemId": 3,
+      "Exercise": "Squats",
+      "Sets": 5,
+      "Reps": 5,
+      "RPE": 8,
+      "Weight": 225,
+      "Rest": 5
+    },
+    {
+      "ItemId": 4,
+      "Exercise": "Squats",
+      "Sets": 5,
+      "Reps": 5,
+      "RPE": 8,
+      "Weight": 225,
+      "Rest": 5
+    },
+    {
+      "ItemId": 5,
+      "Exercise": "Squats",
+      "Sets": 5,
+      "Reps": 5,
+      "RPE": 8,
+      "Weight": 225,
+      "Rest": 5
+    }
+  ]
 }
